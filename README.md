@@ -10,7 +10,7 @@ This is a theme inspired by [One Monokai](https://github.com/azemoh/vscode-one-m
 
 I recommend using colorized brackets with guidelines in this theme. The colors are alread defined within the theme settings. Use this in your settings.json:
 
-```
+```json
     "editor.bracketPairColorization.enabled": true,
     "editor.guides.bracketPairs": true,
     "editor.guides.bracketPairsHorizontal": false,
@@ -18,7 +18,7 @@ I recommend using colorized brackets with guidelines in this theme. The colors a
 ```
 To achieve the cursive font style for certain code you need to use a font that supports cursive like "Operator Mono" or "Fira Code iScript" and set the following in your settings.json:
 
-```
+```json
     "editor.tokenColorCustomizations": {
         "textMateRules": [
             {
