@@ -1,4 +1,4 @@
-# Filk Dark Theme 
+# Dark Filk Theme 
 
 This is a theme inspired by [One Monokai](https://github.com/azemoh/vscode-one-monokai) but with a darker setting and more vibrant colors.
 
