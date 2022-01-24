@@ -2,9 +2,9 @@
 
 This is a theme inspired by [One Monokai](https://github.com/azemoh/vscode-one-monokai) but with a darker setting and more vibrant colors.
 
-![Theme Screenshot](https://github.com/tilker/dark-filk-theme//screenshots.png)
+![Theme Screenshot](https://github.com/tilker/dark-filk-theme/blob/master/screenshots.png?raw=true)
 
-![Interface Screenshot](https://github.com/tilker/dark-filk-theme/interface.png)
+![Interface Screenshot](https://github.com/tilker/dark-filk-theme/blob/master/interface.png?raw=true)
 
 ## Recommendations
 
