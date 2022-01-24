@@ -1,14 +1,16 @@
 {
     "name": "dark-filk",
-    "displayName": "Dark Filk",
-    "description": "",
-    "version": "0.0.1",
+    "displayName": "Dark Filk Theme",
+    "description": "Pleasingly dark and vibrant theme inspired by Monokai",
+    "version": "1.0.0",
+    "publisher": "Philip Park",
     "engines": {
         "vscode": "^1.63.0"
     },
     "categories": [
         "Themes"
     ],
+    "icon": "icon.png",
     "contributes": {
         "themes": [
             {
@@ -17,5 +19,25 @@
                 "path": "./themes/Dark Filk-color-theme.json"
             }
         ]
-    }
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/tilker/dark-filk-theme.git"
+    },
+    "bugs": {
+        "url": "https://github.com/tilker/dark-filk-theme/issues"
+    },
+    "homepage": "https://github.com/tilker/dark-filk-theme/blob/master/README.md",
+    "keywords": [
+        "monokai",
+        "vibrant",
+        "flat",
+        "minimal",
+        "minimalistic",
+        "theme",
+        "contrast",
+        "dark"
+    ],
+    "author": "Philip Park",
+    "license": "MIT"
 }
