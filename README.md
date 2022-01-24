@@ -16,7 +16,7 @@ I recommend using colorized brackets with guidelines in this theme. The colors a
     "editor.guides.bracketPairsHorizontal": false,
     "editor.guides.highlightActiveBracketPair": true,
 ```
-To achieve the cursive font style for certain code you need to use a font that supports cursive like ![Operator Mono](https://www.typography.com/fonts/operator/styles) or ![Fira Code iScript](https://github.com/kencrocken/FiraCodeiScript) and set the following in your settings.json:
+To achieve the cursive font style for certain code you need to use a font that supports cursive like [Operator Mono](https://www.typography.com/fonts/operator/styles) or [Fira Code iScript](https://github.com/kencrocken/FiraCodeiScript) and set the following in your settings.json:
 
 ```json
     "editor.tokenColorCustomizations": {
