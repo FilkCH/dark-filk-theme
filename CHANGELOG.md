@@ -1,5 +1,9 @@
 # Change Log
 
+## [1.0.4] - 2022-01-27
+### Changed
+- Updated Git URLs to point to correct repository.
+
 ## [1.0.3] - 2022-01-27
 ### Added
 - New more muted colors for unselected vertical bracketlines.

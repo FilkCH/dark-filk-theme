@@ -2,7 +2,7 @@
     "name": "dark-filk",
     "displayName": "Dark Filk Theme",
     "description": "Pleasingly dark and vibrant theme inspired by Monokai",
-    "version": "1.0.3",
+    "version": "1.0.4",
     "publisher": "PhilipPark",
     "engines": {
         "vscode": "^1.0.0"
@@ -22,12 +22,12 @@
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/tilker/dark-filk-theme.git"
+        "url": "https://github.com/FilkCH/dark-filk-theme.git"
     },
     "bugs": {
-        "url": "https://github.com/tilker/dark-filk-theme/issues"
+        "url": "https://github.com/FilkCH/dark-filk-theme/issues"
     },
-    "homepage": "https://github.com/tilker/dark-filk-theme/blob/master/README.md",
+    "homepage": "https://github.com/FilkCH/dark-filk-theme/blob/master/README.md",
     "keywords": [
         "monokai",
         "vibrant",

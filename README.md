@@ -4,9 +4,9 @@ This is a theme inspired by [One Monokai](https://github.com/azemoh/vscode-one-m
 
 ## Preview Screenshots
 
-![Theme Screenshot](https://github.com/tilker/dark-filk-theme/blob/master/screenshots.png?raw=true)
+![Theme Screenshot](https://github.com/FilkCH/dark-filk-theme/blob/master/screenshots.png?raw=true)
 
-![Interface Screenshot](https://github.com/tilker/dark-filk-theme/blob/master/interface.png?raw=true)
+![Interface Screenshot](https://github.com/FilkCH/dark-filk-theme/blob/master/interface.png?raw=true)
 
 ## Recommendations
 
@@ -18,7 +18,8 @@ I recommend using colorized brackets with guidelines in this theme. The colors a
     "editor.guides.bracketPairsHorizontal": false,
     "editor.guides.highlightActiveBracketPair": true,
 ```
-To achieve the cursive font style for certain code you need to use a font that supports cursive like [Operator Mono](https://www.typography.com/fonts/operator/styles) or [Fira Code iScript](https://github.com/kencrocken/FiraCodeiScript) and set the following in your `settings.json`:
+
+If you want to achieve the cursive font style for certain code you need to use a font that supports cursive like e.g. purchaseable [Operator Mono](https://www.typography.com/fonts/operator/styles) or free [Fira Code iScript](https://github.com/kencrocken/FiraCodeiScript) and set the following in your `settings.json`:
 
 ```json
     "editor.tokenColorCustomizations": {
