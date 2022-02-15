@@ -177,6 +177,48 @@
 			}
 		},
 		{
+			"scope": "keyword.control",
+			"settings": {
+				"foreground": "#8c98ff"
+			}
+		},
+		{
+			"scope": "keyword.control.loop",
+			"settings": {
+				"foreground": "#ffa78c"
+			}
+		},
+		{
+			"scope": "keyword.control.flow",
+			"settings": {
+				"foreground": "#e5ff9d"
+			}
+		},
+		{
+			"scope": "punctuation.terminator",
+			"settings": {
+				"foreground": "#8a8a8a"
+			}
+		},
+		{
+			"scope": "storage.type.js",
+			"settings": {
+				"foreground": "#65ddec"
+			}
+		},
+		{
+			"scope": "keyword.operator.relational",
+			"settings": {
+				"foreground": "#ffe3b0"
+			}
+		},
+		{
+			"scope": "punctuation.accessor",
+			"settings": {
+				"foreground": "#628dc5"
+			}
+		},
+		{
 			"scope": "variable.language.this, variable.language.this.js",
 			"settings": {
 				"foreground": "#E3E5E8"
@@ -263,7 +305,7 @@
 		{
 			"scope": "variable.parameter",
 			"settings": {
-				"foreground": "#9AC181"
+				"foreground": "#9CC284"
 			}
 		},
 		{
