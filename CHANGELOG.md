@@ -1,5 +1,9 @@
 # Change Log
 
+## [1.0.6] - 2022-02-15
+### Changed
+- Corrected the package version information and updated the changelog.
+
 ## [1.0.5] - 2022-02-15
 ### Added
 - A lot more scopes for better differentiation of colors, especially noticeable in JavaScript.
