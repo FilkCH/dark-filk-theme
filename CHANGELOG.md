@@ -1,5 +1,12 @@
 # Change Log
 
+## [1.0.5] - 2022-02-15
+### Added
+- A lot more scopes for better differentiation of colors, especially noticeable in JavaScript.
+
+### Changed
+- Variable parameters color has been made a bit brighter to fit the theme better.
+
 ## [1.0.4] - 2022-01-27
 ### Changed
 - Updated Git URLs to point to correct repository.
