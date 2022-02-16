@@ -4,7 +4,7 @@ This is a theme inspired by [One Monokai](https://github.com/azemoh/vscode-one-m
 
 ## Theme Screenshots
 
-Please note that the cursive font code is **not** part of the theme and has to be added by yourself manually as described at the bottom of this page if you want to. Also the interface screenshot might not represent the most recent code color settings of the theme, please focus on the look of the Visual Studio Code program interface.
+Please note that the cursive font code is **not** part of the theme and has to be added by yourself manually as described at the bottom of this page if you want to.
 
 ![Theme Header](https://github.com/FilkCH/dark-filk-theme/blob/master/media/header.png?raw=true)
 
@@ -13,6 +13,8 @@ Please note that the cursive font code is **not** part of the theme and has to b
 ![JS Code Preview](https://github.com/FilkCH/dark-filk-theme/blob/master/media/code_javascript.png?raw=true)
 
 ![HTML Code Preview](https://github.com/FilkCH/dark-filk-theme/blob/master/media/code_html.png?raw=true)
+
+The following interface screenshot might not represent the most recent code color settings of the theme, please focus on the look of the Visual Studio Code program interface only.
 
 ![Interface Screenshot](https://github.com/FilkCH/dark-filk-theme/blob/master/media/interface.png?raw=true)
 
