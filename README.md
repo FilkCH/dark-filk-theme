@@ -1,6 +1,6 @@
 # Dark Filk Theme 
 
-This is a theme inspired by [One Monokai](https://github.com/azemoh/vscode-one-monokai) but with a darker setting and more vibrant colors and more color differentiation. This theme was especially optimited for frontend web development in HTML, CSS and JS. Syntax highlighting for other languages are untested adaptions. See recommended fonts and settings at the bottom below the screenshots.
+This is a theme inspired by [One Monokai](https://github.com/azemoh/vscode-one-monokai) but with a darker setting and more vibrant colors and more color differentiation. This theme was especially optimized for frontend web development in HTML, (S)CSS and JS. Syntax highlighting for other languages usually works fine but is untested. See recommended fonts and settings at the bottom below the screenshots.
 
 ## Theme Screenshots
 

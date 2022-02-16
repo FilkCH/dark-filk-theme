@@ -1,7 +1,7 @@
 {
     "name": "dark-filk",
     "displayName": "Dark Filk Theme",
-    "description": "Pleasingly dark and vibrant theme inspired by Monokai",
+    "description": "Pleasingly dark and vibrant theme made for frontend web development.",
     "version": "1.1.0",
     "publisher": "PhilipPark",
     "engines": {
