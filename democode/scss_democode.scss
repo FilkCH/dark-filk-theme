@@ -1,0 +1,51 @@
+@use "sass:math";
+
+body {
+  text-align: center;
+
+  & > #container {
+    text-align: left;
+    margin: 0 auto;
+    width: 500px;
+  }
+
+  ul {
+    padding-top: 14px;
+
+    li {
+      color: $fontcolor1;
+      margin-bottom: 12px;
+    }
+  }
+}
+
+// Pixels to rem based on sass-mq
+@function px2rem($px) {
+  @if unit($px) == rem {
+    @return $px;
+  }
+
+  @return px2em($px, 'rem');
+}
+
+@mixin buttons($basicBorder:1px, $gradient1:#fff) {
+  button{
+    border: $basicBorder solid #acbed3;
+    padding: 3px 14px;
+    font-size: 12px;
+    color: #3b557d;
+
+    &.primary {
+      border: 2px solid #3b557d; 
+      padding: 5px 15px; 
+      @include border-radius($border-radius + 2, $border-radius + 2); 
+    }
+  } 
+}
+
+
+
+
+
+
+

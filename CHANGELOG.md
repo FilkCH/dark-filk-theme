@@ -1,5 +1,16 @@
 # Change Log
 
+## [1.1.0] - 2022-02-17
+### Added
+- New theme screenshots.
+- Demo code files added.
+- New colors for HTML tag punctuations.
+
+### Changed
+- Slight adaptions to readability of HTML color coding.
+- Slight adaption to default CSS attribute color.
+- Readme overhauled
+
 ## [1.0.6] - 2022-02-15
 ### Changed
 - Corrected the package version information and updated the changelog.

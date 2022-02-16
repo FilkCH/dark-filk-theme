@@ -1,16 +1,22 @@
 # Dark Filk Theme 
 
-This is a theme inspired by [One Monokai](https://github.com/azemoh/vscode-one-monokai) but with a darker setting and more vibrant colors. See recommended fonts and settings at the bottom below the screenshots.
+This is a theme inspired by [One Monokai](https://github.com/azemoh/vscode-one-monokai) but with a darker setting and more vibrant colors and more color differentiation. This theme was especially optimited for frontend web development in HTML, CSS and JS. Syntax highlighting for other languages are untested adaptions. See recommended fonts and settings at the bottom below the screenshots.
 
-## Preview Screenshots
+## Theme Screenshots
 
-![Theme Screenshot](https://github.com/FilkCH/dark-filk-theme/blob/master/screenshots.png?raw=true)
+![Theme Header](https://github.com/FilkCH/dark-filk-theme/blob/master/media/header.png?raw=true)
 
-![Interface Screenshot](https://github.com/FilkCH/dark-filk-theme/blob/master/interface.png?raw=true)
+![SCSS Code Preview](https://github.com/FilkCH/dark-filk-theme/blob/master/media/code_css.png?raw=true)
 
-## Recommendations
+![JS Code Preview](https://github.com/FilkCH/dark-filk-theme/blob/master/media/code_javascript.png?raw=true)
 
-I recommend using colorized brackets with guidelines in this theme. The colors are already defined within the theme settings. Use this in your `settings.json`:
+![HTML Code Preview](https://github.com/FilkCH/dark-filk-theme/blob/master/media/code_html.png?raw=true)
+
+![Interface Screenshot](https://github.com/FilkCH/dark-filk-theme/blob/master/media/interface.png?raw=true)
+
+## Setting Recommendations
+
+I highly recommend using colorized brackets with guidelines in this theme. The colors are already defined within the theme settings. Use this in your `settings.json`:
 
 ```json
     "editor.bracketPairColorization.enabled": true,
@@ -19,7 +25,7 @@ I recommend using colorized brackets with guidelines in this theme. The colors a
     "editor.guides.highlightActiveBracketPair": true,
 ```
 
-If you want to achieve the cursive font style for certain code you need to use a font that supports cursive like e.g. purchaseable [Operator Mono](https://www.typography.com/fonts/operator/styles) or free [Fira Code iScript](https://github.com/kencrocken/FiraCodeiScript) and set the following in your `settings.json`:
+If you want to achieve the cursive font style for certain code you need to use a font that supports cursive like e.g. purchaseable [Operator Mono](https://www.typography.com/fonts/operator/styles) or free [Fira Code iScript](https://github.com/kencrocken/FiraCodeiScript) and set and feel free to edit the following in your `settings.json`:
 
 ```json
     "editor.tokenColorCustomizations": {

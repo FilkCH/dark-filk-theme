@@ -2,15 +2,15 @@
     "name": "dark-filk",
     "displayName": "Dark Filk Theme",
     "description": "Pleasingly dark and vibrant theme inspired by Monokai",
-    "version": "1.0.6",
+    "version": "1.1.0",
     "publisher": "PhilipPark",
     "engines": {
         "vscode": "^1.0.0"
-    },
+    }, 
     "categories": [
         "Themes"
     ],
-    "icon": "icon.png",
+    "icon": "./media/icon.png",
     "contributes": {
         "themes": [
             {
